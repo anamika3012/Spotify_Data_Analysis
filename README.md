@@ -1,4 +1,4 @@
-# Spotify_Data_Analysis
+# Spotify Data Analysis using SQL 
 
 ![Spotify Logo](spotify-logo.png)   
 
