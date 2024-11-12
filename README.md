@@ -1,5 +1,3 @@
-
-
 #Spotify_Data_Analysis
 
 ![Spotify Logo](spotify-logo.png)   
