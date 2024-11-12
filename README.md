@@ -1,6 +1,6 @@
-# Spotify_Data_Analysis
+# ![Spotify Logo](spotify-logo.png)  Spotify_Data_Analysis
 Data Analysis of **_Spotify_** dataset from _Kaggle_ using _PostreSQL_  
-![Spotify Logo](spotify-logo.png)
+
 
 
 
