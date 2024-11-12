@@ -14,7 +14,7 @@ This project focuses on analyzing a comprehensive Spotify dataset containing att
 **Key Objectives**
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-**Data Normalization:**  Transforming a denormalized dataset into a normalized structure to enhance data integrity and reduce redundancy.
+**Data Normalization:**  Transforming a denormalized dataset into a normalized structure to enhance data integrity and reduce redundancy. \n
 **Query Complexity:**  Writing SQL queries of various difficulty levels (easy, medium, and advanced) to extract meaningful insights.
 **Performance Optimization:**  Applying techniques to improve query efficiency and ensure smooth data handling.
 
