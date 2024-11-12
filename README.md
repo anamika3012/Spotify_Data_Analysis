@@ -23,7 +23,7 @@ This project focuses on analyzing a comprehensive Spotify dataset containing att
 Skills Practiced
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-_Advanced SQL Techniques:_ Grouping, joins, subqueries, window functions, and CTEs (Common Table Expressions).  
+**_Advanced SQL Techniques:_** Grouping, joins, subqueries, window functions, and CTEs (Common Table Expressions).  
 _Database Optimization:_ Indexing and query performance tuning.  
 _Data Analysis:_ Deriving insights into music trends, popularity, and artist metrics.
 
