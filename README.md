@@ -14,9 +14,9 @@ This project focuses on analyzing a comprehensive Spotify dataset containing att
 **Key Objectives**
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-**Data Normalization:**  Transforming a denormalized dataset into a normalized structure to enhance data integrity and reduce redundancy.   
-**Query Complexity:**  Writing SQL queries of various difficulty levels (easy, medium, and advanced) to extract meaningful insights.  
-**Performance Optimization:**  Applying techniques to improve query efficiency and ensure smooth data handling.
+_**Data Normalization:** _ Transforming a denormalized dataset into a normalized structure to enhance data integrity and reduce redundancy.   
+_**Query Complexity:**_  Writing SQL queries of various difficulty levels (easy, medium, and advanced) to extract meaningful insights.  
+_**Performance Optimization:**_  Applying techniques to improve query efficiency and ensure smooth data handling.
 
 
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
@@ -24,8 +24,8 @@ Skills Practiced
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 **_Advanced SQL Techniques:_** Grouping, joins, subqueries, window functions, and CTEs (Common Table Expressions).  
-_Database Optimization:_ Indexing and query performance tuning.  
-_Data Analysis:_ Deriving insights into music trends, popularity, and artist metrics.
+**_Database Optimization:_ **Indexing and query performance tuning.  
+**_Data Analysis:_ **Deriving insights into music trends, popularity, and artist metrics.
 
 
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
